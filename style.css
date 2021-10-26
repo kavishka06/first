@@ -1,0 +1,19 @@
+.head{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    padding: 30px;
+    border: springgreen;
+    font-style: italic;
+    background-color: chartreuse;
+}
+
+.para{
+    font-style: italic;
+    color: red;
+    font-size: 30px;
+}
+
+body{
+    background-color: slateblue;
+}
